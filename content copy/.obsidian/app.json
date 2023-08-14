@@ -1,0 +1,11 @@
+{
+  "newLinkFormat": "absolute",
+  "vimMode": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "_media",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_templates/"
+  ],
+  "promptDelete": false
+}

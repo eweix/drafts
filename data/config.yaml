@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Elliott Weix
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,19 +11,16 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+enableMermaid: 
+GitHubLink: https://github.com/eweix/personal-wiki/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A collection of random notes about code, science, books, music, and tabletop game design.
 page_title:
-  "🪴 Quartz 3.3"
+  "eweix/wiki"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/eweix
