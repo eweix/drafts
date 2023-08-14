@@ -30,7 +30,6 @@ This book makes me all the more certain that removing the feed-style format of t
 At one point, one of my friends told me that I should have a sort of infinite feed to help "draw people in." I thought about it and wrote up the code.
 But then I previewed it and felt disgusted looking at it.
 It wasn't a humane website design.
-Short pagination and easy lists are better.
 [All good websites are finite](https://humanebydesign.com/principles/finite).
 
 Hari also discusses and condemns [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism): the practice of harvesting and selling personal data.[ This is how many companies make money](https://theconversation.com/if-its-free-online-you-are-the-product-95182), from Facebook to Google to TikTok.
