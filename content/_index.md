@@ -19,7 +19,7 @@ Everything here is in perpetual revisions, and should not be interpreted as anyt
 - Code
 	- [[code/hugo|hugo]]
 - [[music/music|Music]]
-- [Reading List]()
+- [Reading List](/books/)
 - [[Recipes]]
 - [[synbio/synbio|Synthetic biology]]
 
