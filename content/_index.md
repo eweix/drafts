@@ -3,11 +3,13 @@ title: "About"
 enableToc: false
 ---
 ## About
-This is my personal wiki.
+This website contains most of my work in draft form.
 It contains everything from recipes (with food) to recipes (with code) to notes on books and songs that I like.
 The notes here are written for me, so they may be missing context or make herculean leaps in logic.
 
 It also makes it easier for me to share recipes or book recommendations with friends, since websites are more friendly than text files.
+
+Everything here is in perpetual revisions, and should not be interpreted as anything besides shower thoughts. The content of this website is unfit for academic or professional use, and should not be used as a scholarly source.
 
 ## Lists
 - [[collections/inspiration-list|inspiration list]]
