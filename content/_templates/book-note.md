@@ -2,11 +2,9 @@
 tag: 📚Book
 title: "{{title}}"
 author: [{{author}}]
-total: {{totalPage}}
 isbn: {{isbn13}}
 cover: "{{coverUrl}}"
-created: {{DATE:YYYY-MM-DD HH:mm:ss}}
-updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
+date: {{DATE:YYYY-MM-DD }}
 ---
 # {{title}}
 ![cover|150]({{coverUrl}})

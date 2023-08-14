@@ -5,15 +5,15 @@ tags:
 date: 2023-08-10
 ---
 
-The MoClo Yeast Toolkit[^moclo] (YTK) is a set of design principles and parts for construct design in yeast (and particularly *[[synbio/saccharomyces-cerevisiae|S. cerevisiae]]*). The YTK uses [[Golden Gate Cloning]] techniques to create a standard syntax for construct design. 
+The Modular Yeast Toolkit[^moclo] (YTK) is a set of design principles and parts for construct design in yeast (and particularly *[[synbio/saccharomyces-cerevisiae|S. cerevisiae]]*). The YTK uses [[Golden Gate Cloning]] techniques and the MoClo part syntax as a design framework.
 
-## MoClo Taxonomy
-MoClo has three "types" of plasmids:
+## Toolkit Taxonomy
+YTK has three "types" of plasmids:
 - Part plasmids are not ready for expression in yeast. Instead, these are like your catalog of sequences. These plasmids have BsaI binding sites that are used to define the part type.
-- Cassette plasmids are complete transcriptional units. These are assembled from one of each part plasmid. This is the beauty of the MoClo kit—you can easily mix and match and make an entirely new cassete in about half an hour.
+- Cassette plasmids are complete transcriptional units. These are assembled from one of each part plasmid. This is the beauty of the YTK—you can easily mix and match and make an entirely new cassete in about half an hour.
 - Multigene plasmids are assembled from the transcriptional units in cassette plasmids, and allow expression of multiple genes. This makes transformation much more convenient, since it uses only a single plasmid for expression.
 
-To use a sequence with the MoClo toolkit, you have to go through a process of "domesticating" it into the kit taxonomy, assembling it into a part plasmid. From there, you can begin building your transcriptional units.
+To use a sequence with the toolkit, you have to go through a process of "domesticating" it into the kit taxonomy, assembling it into a part plasmid. From there, you can begin building your transcriptional units.
 
 ![[_media/moclo-workflow.png]]
 
