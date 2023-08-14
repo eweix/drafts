@@ -12,8 +12,13 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        {{partial "page-list.html" .Paginator.Pages}}
-        {{ template "_internal/pagination.html" . }}
+        {{ $term := .Term }}
+        {{ range where .Pages "Term" $term }}
+        <ul><a href="{{ .Permalink }}">{{ .Title }}</a> &cdot; <i>{{ .Lastmod }}</i></ul>
+        {{ end }}
+ 
+        <!-- {{partial "page-list.html" .Pages}} -->
+        <!-- {{ template "_internal/pagination.html" . }} -->
     </article>
     {{partial "contact.html" .}}
 </div>

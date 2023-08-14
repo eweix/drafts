@@ -12,8 +12,12 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        {{partial "page-list.html" .Paginator.Pages.ByLastmod.Reverse }}
-        {{ template "_internal/pagination.html" .}}
+        {{ $section := .Section }}
+        {{ range where .Pages "Section" $section }}
+        <ul><a href="{{ .Permalink }}">{{ .Title }}</a> &cdot; <i>{{ .Lastmod }}</i></ul>
+        {{ end }}
+        <!-- {{partial "page-list.html" .Pages.ByLastmod.Reverse }} -->
+        <!-- {{ template "_internal/pagination.html" .}} -->
     </article>
     {{partial "contact.html" .}}
 </div>
