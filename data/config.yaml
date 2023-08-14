@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: 
-GitHubLink: https://github.com/eweix/personal-wiki/tree/hugo/content
+GitHubLink: https://github.com/eweix/drafts/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -20,7 +20,7 @@ search:
 description:
   A collection of random notes about code, science, books, music, and tabletop game design.
 page_title:
-  "eweix/wiki"
+  "eweix/drafts"
 links:
   - link_name: GitHub
     link: https://github.com/eweix
