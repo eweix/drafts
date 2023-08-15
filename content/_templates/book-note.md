@@ -1,6 +1,7 @@
 ---
-tag: 📚Book
+tag: Book
 title: "{{title}}"
+aliases:
 author: [{{author}}]
 isbn: {{isbn13}}
 cover: "{{coverUrl}}"
