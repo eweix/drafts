@@ -14,7 +14,7 @@
         {{end}}
         {{ $term := .Term }}
         {{ range where .Pages "Term" $term }}
-        <ul><a href="{{ .Permalink }}">{{ .Title }}</a> &Dot; <i>{{ .Lastmod.format "2015-01-21" }}</i></ul>
+        <ul><a href="{{ .Permalink }}">{{ .Title }}</a> &Dot; <i>{{ .Lastmod | time.format "2015-01-21" }}</i></ul>
         {{ end }}
  
         <!-- {{partial "page-list.html" .Pages}} -->
