@@ -1,11 +1,12 @@
 ---
-tag: Book
 title: "{{title}}"
 aliases:
 author: [{{author}}]
 isbn: {{isbn13}}
 cover: "{{coverUrl}}"
 date: {{DATE:YYYY-MM-DD }}
+tags:
+- book
 ---
 # {{title}}
 ![cover|150]({{coverUrl}})

@@ -34,4 +34,10 @@ It's made all the richer when you have modern context and a more academic or pra
 
 If you hear the words "gene" or "DNA" and you don't quite know what it means, this book is a great place to start.
 Mukherjee's style is very approachable while still allowing for a deep exploration of the book's topics.
-One of my other favorite books, *[The Song of the Cell](/2023/01/03/the-song-of-the-cell)* (also by Siddharta Mukherjee) is written in much the same way.
+One of my other favorite books, *[[books/mukherjee_the-song-of-the-cell|The Song of the Cell]]* (also by Siddharta Mukherjee) is written in much the same way.
+
+## Notes
+- [[notes/576b|DNA]]
+- [[notes/570a|central dogma]]
+- [[notes/570a2|DNA translation]]
+- [[notes/570a1|DNA transcription]]

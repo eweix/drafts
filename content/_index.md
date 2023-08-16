@@ -21,7 +21,7 @@ Everything here is in perpetual revisions, and should not be interpreted as anyt
 - [[music/music|Music]]
 - [Reading List](/books/)
 - [[Recipes]]
-- [[synbio/synbio|Synthetic biology]]
+- [[notes/574|Synthetic biology]]
 
 ## Colophon
 I read articles in [NetNewsWire](https://netnewswire.com) and books in print.

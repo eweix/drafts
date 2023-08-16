@@ -6,5 +6,5 @@ date: 2023-08-10
 ---
 ![[_media/bistable-switch.svg]]
 
-The bistable switch is a type of [[synbio/operon-model|operon]] that consists of two inhibitors. Because each one downregulates the activity of the other, this results in two stable phenotypes. External stimula can cause a switch between these conditions.
+The bistable switch is a type of [[notes/576c|operon]] that consists of two inhibitors. Because each one downregulates the activity of the other, this results in two stable phenotypes. External stimula can cause a switch between these conditions.
 

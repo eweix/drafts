@@ -14,8 +14,12 @@ My parents gave me this book as a Christmas gift.
 I had been working in a lab with cells and all sorts of other things for about six months by then, and I was (and still am) convinced that research was *the* place to be.
 Thus, the book.
 About cells.
-I also received [The Gene](/books/the-gene), another fantastic book written by Mukherjee, that I still have not finished reading.
+I also received [[books/mukherjee_the-gene|The Gene]], another fantastic book written by Mukherjee, that I still have not finished reading.
 
 In *The Song of the Cell*, Mukherjee describes cells and their interactions, slowly building up the the crowning discussion of the book: gene therapy and its consequences.
 From the get-go, this book is engaging.
 I fully admit that part of this is because I've taken classes about biology and cells and I work with cells on a weekly basis—my love for this book is inseparable from my love of the lab.
+
+## Notes
+- [[notes/570b1|all living phenomena can be understood through cells]]
+- [[notes/570b|cells are the atomic units of life]]
