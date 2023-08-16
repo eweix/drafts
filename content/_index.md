@@ -15,13 +15,13 @@ Everything here is in perpetual revisions, and should not be interpreted as anyt
 - [[collections/inspiration-list|inspiration list]]
 
 ## Index
-- Everything
 - Code
 	- [[code/hugo|hugo]]
 - [[music/music|Music]]
 - [Reading List](/books/)
 - [[Recipes]]
-- [[notes/574|Synthetic biology]]
+- [Notes](/notes/)
+	- [[notes/574|Synthetic biology]]
 
 ## Colophon
 I read articles in [NetNewsWire](https://netnewswire.com) and books in print.
