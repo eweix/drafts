@@ -12,10 +12,6 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        <!-- {{*/ {{ $term := .Term }} */}}
-        {{/* {{ range where .Pages "Term" $term }} */}}
-        <ul><a href="{{/* {{ .Permalink }}">{{ .Title }}</a> &Dot; <i>{{ .Lastmod.Format "2015-01-21" }} */}}</i></ul>
-        {{/* {{ end }} */}}-->
  
         {{partial "page-list.html" .Pages}}
         {{ template "_internal/pagination.html" . }}
