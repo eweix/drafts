@@ -11,17 +11,15 @@ It also makes it easier for me to share recipes or book recommendations with fri
 
 Everything here is in perpetual revisions, and should not be interpreted as anything besides shower thoughts. The content of this website is unfit for academic or professional use, and should not be used as a scholarly source.
 
-## Lists
-- [[collections/inspiration-list|inspiration list]]
+## [[Start Here]]
 
-## Index
-- Code
-	- [[code/hugo|hugo]]
+- [[collections/inspiration-list|inspiration list]]
+## Collections
+## [Notes](/notes)
 - [[music/music|Music]]
-- [Reading List](/books/)
+- [Reading List](/books)
 - [[Recipes]]
-- [Notes](/notes/)
-	- [[notes/574|Synthetic biology]]
+- [[notes/574|Synthetic biology]]
 
 ## Colophon
 I read articles in [NetNewsWire](https://netnewswire.com) and books in print.
