@@ -12,8 +12,8 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        {{ range (where .Site.RegularPages "Type" "in" (slice "books")).GroupByDate "January 2006" }}
-        <h2>{{ .Key }}</h2>
+        {{ range (where .Site.RegularPages "Type" "in" (slice "books")).GroupByDate "2006-01" }}
+        <h2>{{ .Key | time.Format "January 2006" }}</h2>
         {{ range .Pages }}
           <ul><a href="{{ .Permalink }}">{{ .Title }}</a> by {{ .Page.Params.author }} &Backslash; <i>{{ .Date.Format "2006-01-02" }}</i></ul>
         {{- end -}}
