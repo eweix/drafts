@@ -9,7 +9,7 @@ publisher: "Tordotcom"
 publish-date: 2021-07-13
 canon: true
 excerpt_separator: <!--more-->
-date: 2021-07-13
+date: 2023-06-20
 ---
 I think I have a new favorite book.
 
