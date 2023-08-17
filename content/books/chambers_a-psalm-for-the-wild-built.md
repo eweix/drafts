@@ -8,15 +8,12 @@ cover: https://books.google.com/books/content?id=XgT6DwAAQBAJ&printsec=frontcove
 publisher: "Tordotcom"
 publish-date: 2021-07-13
 canon: true
-excerpt_separator: <!--more-->
 date: 2023-06-20
 ---
 I think I have a new favorite book.
 
 Becky Chambers's *A Psalm for the Wild-Built* is a beautiful book about a tea-brewing therapist in a post-cataclysm world going on a road trip with a robot.
 Chambers's vivid prose brings to life a story about friendship, agency, and personal purpose.
-
-<!--more-->
 
 The setting falls squarely in what my family and I lovingly call "[Ghibli apocalypse](https://www.ghibli.jp/gallery/nausicaa002.jpg)." Humanity has changed deeply, giving way to the natural world.
 In this case, robots spontaneously gained consciousness and rejected their human-given purpose of servitude.
