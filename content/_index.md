@@ -1,5 +1,5 @@
 ---
-title: "Drafts"
+title: "INDEX"
 enableToc: false
 ---
 ## About
@@ -23,7 +23,7 @@ If you haven't visited this website before, then hi! I hope you find something f
 		- [000](notes/005) - computer programming (see also [snippets](/tags/snippet))
 	- [500](/notes/500) - the sciences
 		- [510](notes/510/_index.md) - mathematics
-		- [540](notes/540/_index.md) - chemistry
+		- [540](notes/540) - chemistry
 		- [570](notes/570) - biology and related fields (especially synthetic biology, microbiology, and genetics)
 - [Recipes](/recipes) - a collection of recipes that I like.
 
