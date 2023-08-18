@@ -10,3 +10,6 @@ linkmap
 # ignore obsidian configuration files
 .obsidian/*
 .obsidian/**
+
+periodic/*
+periodic/**

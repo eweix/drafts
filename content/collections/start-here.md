@@ -26,8 +26,6 @@ I suggest paging through the collections, finding something that interests you, 
 	- [[collections/inspiration-list|Inspiration list]] - a list of things that I like and think about a lot.
 	- [[collections/digital-gardens|What are digital gardens?]] - an overview of websites like this one, and what they can do.
 - My favorite stuff from my [notes](/notes):
-	- asdf
 - [Books](/books) that I enjoyed:
 	- [[books/hedges_empire-of-illusion|Empire of Illusion]]
 	- [[books/mukherjee_the-song-of-the-cell|The Song of the Cell]]
-	- 
