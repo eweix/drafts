@@ -13,4 +13,4 @@ date: 2023-08-14
 {{ end }}
 ```
 
-This piece of code for [[code/hugo|hugo]] produces a list of pages in a section in no particular order, listing their title and last modified date.
+This piece of code for [[docs/hugo/hugo|hugo]] produces a list of pages in a section in no particular order, listing their title and last modified date.

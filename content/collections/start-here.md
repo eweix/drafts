@@ -26,6 +26,7 @@ I suggest paging through the collections, finding something that interests you, 
 	- [[collections/inspiration-list|Inspiration list]] - a list of things that I like and think about a lot.
 	- [[collections/digital-gardens|What are digital gardens?]] - an overview of websites like this one, and what they can do.
 - My favorite stuff from my [notes](/notes):
-- [Books](/books) that I enjoyed:
+- [Books](/books) that I highly recommend:
 	- [[books/hedges_empire-of-illusion|Empire of Illusion]]
 	- [[books/mukherjee_the-song-of-the-cell|The Song of the Cell]]
+	- Monk & Robot ([[books/chambers_a-psalm-for-the-wild-built|A Psalm for the Wild-Built]] and [[books/chambers_a-prayer-for-the-crown-shy|A Prayer for the Crown-Shy]])
