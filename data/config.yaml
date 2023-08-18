@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: 
 GitHubLink: https://github.com/eweix/drafts/tree/hugo/content
 search:
@@ -22,7 +22,7 @@ description:
 page_title:
   "eweix/drafts"
 links:
-  - link_name: Personal Website
+  - link_name: Profile
     link: https://eweix.github.io
   - link_name: GitHub
     link: https://github.com/eweix
