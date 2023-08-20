@@ -37,7 +37,7 @@ Mukherjee's style is very approachable while still allowing for a deep explorati
 One of my other favorite books, *[[books/mukherjee_the-song-of-the-cell|The Song of the Cell]]* (also by Siddharta Mukherjee) is written in much the same way.
 
 ## Notes
-- [[notes/570/2c|DNA]]
-- [[notes/570/2|central dogma]]
-- [[notes/570/2b|DNA translation]]
-- [[notes/570/2a|DNA transcription]]
+- [[notes/2a3_one-gene-one-protein|DNA]]
+- [[notes/2a_central-dogma-of-biology|central dogma]]
+- [[notes/2a2_DNA-translation-makes-proteins|DNA translation]]
+- [[notes/2a1_DNA-transcription|DNA transcription]]

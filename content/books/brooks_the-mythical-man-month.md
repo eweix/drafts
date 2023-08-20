@@ -13,7 +13,7 @@ date: 2023-06-27
 I would have gotten more out of this book if I were a software engineer or full-blown computer programmer. Much of the contents went over my head, since I'm not a member of that target audience. *The Mythical Man-Month* is dense and technical, so be prepared if you choose to read it.
 
 ## Notes
-- [[notes/000/10|address bottlenecks to improve efficiency]]
+- [[notes/5_theory-of-constraints|address bottlenecks to improve efficiency]]
 ## People and time are not interchangeable outputs
 People and time are not perfectly interchangeable inputs on a project. Adding more effort without a clear vision for how it will be used only prolongs development.
 

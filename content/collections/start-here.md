@@ -25,8 +25,10 @@ I suggest paging through the collections, finding something that interests you, 
 - Again, [collections](/collections) are a good place to start:
 	- [[collections/inspiration-list|Inspiration list]] - a list of things that I like and think about a lot.
 	- [[collections/digital-gardens|What are digital gardens?]] - an overview of websites like this one, and what they can do.
-- My favorite stuff from my [notes](/notes):
+- Assorted [notes](/notes):
+	- [[notes/2b_cells-are-units-of-life|cells are the atomic units of life]]
 - [Books](/books) that I highly recommend:
 	- [[books/hedges_empire-of-illusion|Empire of Illusion]]
+	- [[books/rothstein_the-color-of-law|The Color of Law]]
 	- [[books/mukherjee_the-song-of-the-cell|The Song of the Cell]]
 	- Monk & Robot ([[books/chambers_a-psalm-for-the-wild-built|A Psalm for the Wild-Built]] and [[books/chambers_a-prayer-for-the-crown-shy|A Prayer for the Crown-Shy]])

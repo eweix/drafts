@@ -19,4 +19,4 @@ I read this book on the recommendation of my parents and my aunt (and also becau
 I'd recommend this book for anyone who wants to understand cancer—be it to comprehend their own struggles, those of friends and family, or for more academic reasons.
 
 ## Notes
-- [[notes/570/3b|all living phenomena can be understood through cells]]
+- [[notes/2b1_living-phenomena-can-be-understood-through-cells|all living phenomena can be understood through cells]]

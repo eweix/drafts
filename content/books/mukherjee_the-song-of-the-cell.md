@@ -22,5 +22,5 @@ From the get-go, this book is engaging.
 I fully admit that part of this is because I've taken classes about biology and cells and I work with cells on a weekly basis—my love for this book is inseparable from my love of the lab.
 
 ## Notes
-- [[notes/570/3b|all living phenomena can be understood through cells]]
-- [[notes/570/3|cells are the atomic units of life]]
+- [[notes/2b1_living-phenomena-can-be-understood-through-cells|all living phenomena can be understood through cells]]
+- [[notes/2b_cells-are-units-of-life|cells are the atomic units of life]]

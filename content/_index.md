@@ -17,15 +17,10 @@ If you haven't visited this website before, then hi! I hope you find something f
 - [Collections](/collections) - longer writing. Revisited, revised, and updated on an irregular schedule.
 	- [[collections/inspiration-list|Inspiration list]]
 	- [[collections/digital-gardens|What are digital gardens?]]
- - [Docs](/docs) - code and documentation on stuff. See also [snippets](/tags/snippet).
+- [Docs](/docs) - code and documentation on stuff. See also [snippets](/tags/snippet).
 - [Reading List](/books) - books that I am reading (or have read). Fun, hey?
 - [Notes](/notes) - a braindump of notes. Sometimes kept in an evergreen style, but oftentimes not. [Tags](/tags) provide some semblance of organization.
-	- [000](notes/000) - general information
-		- [000](notes/005) - computer programming (see also )
-	- [500](/notes/500) - the sciences
-		- [510](notes/510/_index.md) - mathematics
-		- [540](notes/540) - chemistry
-		- [570](notes/570) - biology and related fields (especially synthetic biology, microbiology, and genetics)
+	- [[notes/2_biology-is-the-study-of-life|Biology]]
 - [Recipes](/recipes) - a collection of recipes that I like.
 
 ## Colophon
