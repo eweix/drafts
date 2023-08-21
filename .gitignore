@@ -10,6 +10,8 @@ linkmap
 # ignore obsidian configuration files
 .obsidian/*
 .obsidian/**
+_scripts
+_scripts/*
 
 periodic/*
 periodic/**
