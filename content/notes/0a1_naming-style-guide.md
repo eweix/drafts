@@ -16,7 +16,21 @@ Names are important! Especially when it comes to files and organization. Taking 
 When I make presentations or write essays, I name files like this:
 
 ```
-YYYY-MM-DD_author-initials_project-name-here.ppt
+YYYY-MM-DD_author-initials_project-name-here.extension
 ```
+
+And for notes using a [[notes/11a_folgezettel-zettelkasten|zettel style]] and Luhmann IDs, I name things as such:
+
+```
+ID_example-note-name.md
+```
+
+For books:
+
+```
+authorlastname_book-title.md
+```
+
+It is not the most consistent, but it works fairly well for me.
 
 [^jennybc]: From [https://speakerdeck.com/jennybc/how-to-name-files](https://speakerdeck.com/jennybc/how-to-name-files). Fantastic list of best practices for naming things.
