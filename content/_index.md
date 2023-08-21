@@ -16,11 +16,11 @@ If you haven't visited this website before, then hi! I hope you find something f
 ## Index
 - [Collections](/collections) - longer writing. Revisited, revised, and updated on an irregular schedule.
 	- [[collections/inspiration-list|Inspiration list]]
-	- [[collections/digital-gardens|What are digital gardens?]]
 - [Docs](/docs) - code and documentation on stuff. See also [snippets](/tags/snippet).
 - [Reading List](/books) - books that I am reading (or have read). Fun, hey?
 - [Notes](/notes) - a braindump of notes. Sometimes kept in an evergreen style, but oftentimes not. [Tags](/tags) provide some semblance of organization.
 	- [[notes/2_biology-is-the-study-of-life|Biology]]
+	- [[notes/11_information-practices|information practices]]
 - [Recipes](/recipes) - a collection of recipes that I like.
 
 ## Colophon

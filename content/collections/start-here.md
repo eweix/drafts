@@ -27,6 +27,8 @@ I suggest paging through the collections, finding something that interests you, 
 	- [[collections/digital-gardens|What are digital gardens?]] - an overview of websites like this one, and what they can do.
 - Assorted [notes](/notes):
 	- [[notes/2b_cells-are-units-of-life|cells are the atomic units of life]]
+	- [[notes/11a_folgezettel-zettelkasten|what is a folgezettel?]]
+	- [[notes/13_xeno-series|Xenoblade Chronicles]]
 - [Books](/books) that I highly recommend:
 	- [[books/hedges_empire-of-illusion|Empire of Illusion]]
 	- [[books/rothstein_the-color-of-law|The Color of Law]]

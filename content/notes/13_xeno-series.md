@@ -1,6 +1,9 @@
 ---
 title: "Xenoblade Series"
-aliases: ["Xenoblade", "Perfect Works", "Xenoblade Chronicles"]
+aliases:
+- Xenoblade
+- Perfect Works
+- Xenoblade Chronicles
 tags:
 date: 2023-08-11
 ---
