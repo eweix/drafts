@@ -2,13 +2,13 @@
 title: "Cloning is the bottleneck of synthetic biology"
 aliases:
   - synthetic biology cloning tools
-tags: null
+tags:
 date: 2023-08-15
 ---
 
 [[notes/2d_synthetic-biology|Synthetic biology]] relies largely on [[notes/2d1_cloning|gene cloning]] to test various [[notes/2a3a_operon-model|genetic circuits]] *in vivo*. Depending on cloning strategies, it can take anywhere from several days to several weeks to get from design to data. Since [[notes/5_theory-of-constraints|addressing bottlenecks is the best way to improve efficiency]], there are several strategies to deal with this.
 
-A cloning workflow might look something like this:
+Consider the example cloning workflow:
 1. Design a peptide of interest *in silico* and gather source DNA.
 2. PCR source DNA to replicate the bits that express target proteins.
 3. Take target DNA sequences and put them into an expression vector.
