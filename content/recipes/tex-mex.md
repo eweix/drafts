@@ -2,8 +2,7 @@
 title: "tex-mex"
 aliases:
   - tex-mex
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

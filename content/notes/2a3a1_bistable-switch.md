@@ -3,8 +3,7 @@ title: "Bistable Switch"
 aliases:
   - bistable switch
   - stable switch operon
-tags:
-  - 
+tags: 
 date: 2023-08-10
 ---
 ![[media/bistable-switch.svg]]

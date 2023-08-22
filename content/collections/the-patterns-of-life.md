@@ -2,8 +2,7 @@
 title: "The patterns of life"
 aliases:
   - The patterns of life
-tags:
-  - 
+tags: 
 date: 2023-08-22
 ---
 

@@ -5,8 +5,7 @@ aliases:
   - who got all this german in my notes?
   - folgezettel
   - zettelkasten
-tags:
-  - 
+tags: 
 date: 2023-08-20
 ---
 

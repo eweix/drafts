@@ -4,8 +4,7 @@ aliases:
   - reaction-diffusion system
   - reaction-diffusion systems
   - reaction-diffusion systems self-organize
-tags:
-  - null
+tags: null
 date: 2023-08-15
 ---
 

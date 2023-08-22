@@ -2,8 +2,7 @@
 title: "Math is a humanities"
 aliases:
   - math is a humanities
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

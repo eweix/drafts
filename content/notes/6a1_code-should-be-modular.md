@@ -2,8 +2,7 @@
 title: "code should be modular"
 aliases:
   - code should be modular
-tags:
-  - 
+tags: 
 date: 2023-08-16
 ---
 

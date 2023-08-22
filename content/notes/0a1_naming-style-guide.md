@@ -3,8 +3,7 @@ title: "Naming style guide"
 aliases:
   - how to name things
   - naming style guide
-tags:
-  - snippet
+tags: snippet
 date: 2023-08-09
 ---
 

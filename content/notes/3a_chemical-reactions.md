@@ -3,8 +3,7 @@ title: "Chemical reactions are the core of chemistry"
 aliases:
   - chemical reaction
   - chemical reactions are the core of chemistry
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

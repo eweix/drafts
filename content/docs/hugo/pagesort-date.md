@@ -4,8 +4,7 @@ aliases:
   - sort pages by date in hugo
   - sort pages by date
   - pagesort date
-tags:
-  - snippet
+tags: snippet
 date: 2023-08-16
 ---
 

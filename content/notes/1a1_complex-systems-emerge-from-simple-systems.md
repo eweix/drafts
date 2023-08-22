@@ -2,8 +2,7 @@
 title: "complex systems emerge from simple systems"
 aliases:
   - complex systems emerge from simple systems
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

@@ -2,8 +2,7 @@
 title: gray-scott model
 aliases:
   - gray-scott model
-tags:
-  - null
+tags: null
 date: 2023-08-15
 ---
 

@@ -2,8 +2,7 @@
 title: "Living phenomena can be understood through cells"
 aliases:
   - living phenomena can be understood through cells
-tags:
-  - null
+tags: null
 date: 2023-08-15
 ---
 

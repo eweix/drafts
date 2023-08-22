@@ -4,8 +4,7 @@ aliases:
   - strong-link problems
   - strong-link problems maximize positive outliers
   - strong-link problems work by producing positive outliers
-tags:
-  - 
+tags: 
 date: 2023-08-22
 ---
 

@@ -2,8 +2,7 @@
 title: "Music"
 aliases:
   - Music
-tags:
-  - 
+tags: 
 date: 2023-08-10
 ---
 

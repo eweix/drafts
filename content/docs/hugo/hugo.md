@@ -2,8 +2,7 @@
 title: "Hugo"
 aliases:
   - Hugo
-tags:
-  - 
+tags: 
 date: 2023-08-10
 ---
 

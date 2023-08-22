@@ -5,8 +5,7 @@ aliases:
   - emergent phenomena
   - emergence
   - emergent phenomenon
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

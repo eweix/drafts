@@ -3,8 +3,7 @@ title: "Chemistry is the Study of Matter"
 aliases:
   - chemistry
   - chemistry is the study of matter
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

@@ -2,8 +2,7 @@
 title: Math proofs are self-evident
 aliases:
   - math proofs are self-evident
-tags:
-  - 
+tags: 
 date: 2023-08-20
 ---
 

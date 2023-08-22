@@ -3,8 +3,7 @@ title: "Inspiration List"
 aliases:
   - inspiration list
   - cool stuff
-tags:
-  - 
+tags: 
 date: 2023-08-11
 ---
 

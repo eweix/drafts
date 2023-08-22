@@ -3,8 +3,7 @@ title: "Practice slow, then fast"
 aliases:
   - Practice slow, then fast
   - slow-fast method
-tags:
-  - 
+tags: 
 date: 2023-08-10
 ---
 

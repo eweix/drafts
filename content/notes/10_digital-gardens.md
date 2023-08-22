@@ -2,8 +2,7 @@
 title: "What is a digital garden?"
 aliases:
   - 
-tags:
-  - 
+tags: 
 date: 2023-08-11
 ---
 

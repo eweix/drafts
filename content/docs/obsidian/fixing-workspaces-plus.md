@@ -2,8 +2,7 @@
 title: "Fixing Workspaces Plus Plugin"
 aliases:
   - 
-tags:
-  - snippet
+tags: snippet
 date: 2023-08-15
 ---
 

@@ -5,8 +5,7 @@ aliases:
   - systems biology
   - synbio
   - synthetic biology seeks to make biological tools
-tags:
-  - 
+tags: 
 date: 2023-08-09
 ---
 Synthetic biology is a field of science that focuses on creating biological systems for fun and profit. It is closely intertwined with [[notes/2_biology-is-the-study-of-life|biology]] and [[notes/2a3_one-gene-one-protein|genetics]], and particularly the [[notes/2a3a_operon-model|operon model]] (which is the basis of synthetic genetic circuits).

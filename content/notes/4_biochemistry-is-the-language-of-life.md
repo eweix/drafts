@@ -3,8 +3,7 @@ title: "Biochemistry is the language of life"
 aliases:
   - biochemistry is the language of life
   - biochemistry
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

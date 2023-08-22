@@ -5,8 +5,7 @@ aliases:
   - programming
   - coding
   - code
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 Computer programming is everything that deals with writing code and functions for handling information in a computer.

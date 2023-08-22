@@ -2,8 +2,7 @@
 title: "Page lists"
 aliases:
   - 
-tags:
-  - snippet
+tags: snippet
 date: 2023-08-14
 ---
 

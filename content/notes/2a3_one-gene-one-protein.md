@@ -5,8 +5,7 @@ aliases:
   - DNA
   - one gene, one protein
   - genetics
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

@@ -25,6 +25,7 @@ If you haven't visited this website before, then hi! I hope you find something f
 - [Notes](/notes) - a braindump of notes. Sometimes kept in an evergreen style, but oftentimes not. [Tags](/tags) provide some semblance of organization.
 	- [[notes/2_biology-is-the-study-of-life|Biology]]
 	- [[notes/11_information-practices|information practices]]
+	- [[notes/14a1_my-favorite-problems|my favorite problems]]
 - [Recipes](/recipes) - a collection of recipes that I like.
 
 ## Colophon

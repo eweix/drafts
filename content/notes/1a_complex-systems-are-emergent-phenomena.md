@@ -2,8 +2,7 @@
 title: "Complex systems are emergent phenomena"
 aliases:
   - Complex systems are emergent phenomena
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 Complex systems are emergent phenomena. Thye come from a set of smaller subsystems. For example, this very folgezettel that I'm using right now to organize my notes is a simple system, but it grows more complex the more I work with it.

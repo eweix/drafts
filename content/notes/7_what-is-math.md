@@ -4,8 +4,7 @@ aliases:
   - what is math
   - mathematics
   - math
-tags:
-  - 
+tags: 
 date: 2023-08-20
 ---
 

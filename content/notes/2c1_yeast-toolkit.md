@@ -5,8 +5,7 @@ aliases:
   - yeast toolkit
   - MoClo kit
   - yeast golden gate kit
-tags:
-  - 
+tags: 
 date: 2023-08-10
 ---
 

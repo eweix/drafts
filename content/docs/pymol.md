@@ -2,8 +2,7 @@
 title: "PyMol"
 aliases:
   - PyMol
-tags:
-  - stack
+tags: stack
 date: 2023-08-15
 ---
 

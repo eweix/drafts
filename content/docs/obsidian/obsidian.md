@@ -3,8 +3,7 @@ title: Obsidian
 aliases:
   - Obsidian.md
   - Obsidian
-tags:
-  - stack
+tags: stack
 date: 2023-08-18
 ---
 

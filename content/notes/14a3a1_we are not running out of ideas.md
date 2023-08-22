@@ -2,8 +2,7 @@
 title: "We are not running out of ideas"
 aliases:
   - we are not running out of ideas
-tags:
-  - 
+tags: 
 date: 2023-08-22
 ---
 

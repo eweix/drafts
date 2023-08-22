@@ -4,8 +4,7 @@ aliases:
   - replacement for hugo pagination
   - remove pagination in hugo
   - remove pagination
-tags:
-  - snippet
+tags: snippet
 date: 2023-08-14
 ---
 For replacing pagination in [[docs/hugo/hugo|hugo]]. See also [[docs/hugo/page-list|page-list]] snippet for hugo.

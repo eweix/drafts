@@ -4,8 +4,7 @@ aliases:
   - Xenoblade
   - Perfect Works
   - Xenoblade Chronicles
-tags:
-  - 
+tags: 
 date: 2023-08-11
 ---
 

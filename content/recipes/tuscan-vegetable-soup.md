@@ -2,8 +2,7 @@
 title: "Tuscan Vegetable Soup"
 aliases:
   - vegetable soup
-tags:
-  - 
+tags: 
 date: 2023-08-10
 ---
 

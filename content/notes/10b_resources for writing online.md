@@ -2,8 +2,7 @@
 title: Resources for writing online
 aliases:
   - resources for writing online
-tags:
-  - null
+tags: null
 date: 2023-08-20
 ---
 

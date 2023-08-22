@@ -3,8 +3,7 @@ title: "Problems are a type of goal"
 aliases:
   - problems are a type of goal
   - problems focus effort
-tags:
-  - 
+tags: 
 date: 2023-08-22
 ---
 

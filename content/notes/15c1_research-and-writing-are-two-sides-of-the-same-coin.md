@@ -2,8 +2,7 @@
 title: "Research and writing are two sides of the same coin"
 aliases:
   - research and writing are two sides of the same coin
-tags:
-  - 
+tags: 
 date: 2023-08-22
 ---
 

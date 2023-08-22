@@ -3,8 +3,7 @@ title: Personal information practices
 aliases:
   - information practices
   - personal information practices
-tags:
-  - 
+tags: 
 date: 2023-08-20
 ---
 

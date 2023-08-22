@@ -2,8 +2,7 @@
 title: "Central dogma of biology"
 aliases:
   - central dogma
-tags:
-  - null
+tags: null
 date: 2023-08-15
 ---
 

@@ -4,8 +4,7 @@ aliases:
   - baker's yeast
   - S. cerevisiae
   - Saccharomyces cerevisiae
-tags:
-  - 
+tags: 
 date: 2023-08-09
 ---
 

@@ -2,8 +2,7 @@
 title: "Life is an emergent phenomenon"
 aliases:
   - Life is an emergent phenomenon
-tags:
-  - 
+tags: 
 date: 2023-08-15
 ---
 

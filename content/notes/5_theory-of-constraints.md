@@ -3,8 +3,7 @@ title: Address bottlenecks to improve efficiency
 aliases:
   - address bottlenecks to improve efficiency
   - theory of constraints
-tags:
-  - 
+tags: 
 date: 2023-08-16
 ---
 
