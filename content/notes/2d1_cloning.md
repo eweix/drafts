@@ -7,7 +7,7 @@ tags:
 date: 2023-08-20
 ---
 
-When you hear "cloning," you might think of Dolly the sheep[^sheep] or the Star Wars prequels. But in [[notes/2_biology-is-the-study-of-life|biology]], cloning usually refers to [[DNA replication]] and gene expression for experiments.
+When you hear "cloning," you might think of Dolly the sheep[^1] or the Star Wars prequels. But in [[notes/2_biology-is-the-study-of-life|biology]], cloning usually refers to [[DNA replication]] and gene expression for experiments.
 
 A cloning workflow might look something like this:
 1. Design a peptide of interest *in silico* and gather source DNA.
@@ -19,4 +19,4 @@ A cloning workflow might look something like this:
 
 You may have already guessed that [[notes/2d1a_cloning-is-the-bottleneck-of-synthetic-biology|cloning is the bottleneck of synthetic biology]].
 
-[^sheep]: Dolly the sheep was the first animal ever successfully cloned from an adult cell. She was not the first animal to be cloned, but is certainly one of the most well-known. [Wikipedia](https://en.wikipedia.org/wiki/Dolly_(sheep)).
+[^1]: Dolly the sheep was the first animal ever successfully cloned from an adult cell. She was not the first animal to be cloned, but is certainly one of the most well-known. [Wikipedia](https://en.wikipedia.org/wiki/Dolly_(sheep)).

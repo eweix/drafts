@@ -9,7 +9,7 @@ tags:
 date: 2023-08-10
 ---
 
-The Modular Yeast Toolkit[^moclo] (YTK) is a set of design principles and parts for construct design in yeast (and particularly *[[notes/2c2_saccharomyces-cerevisiae|S. cerevisiae]]*). The YTK uses [[Golden Gate Cloning]] techniques and the MoClo part syntax as a design framework.
+The Modular Yeast Toolkit[^1] (YTK) is a set of design principles and parts for construct design in yeast (and particularly *[[notes/2c2_saccharomyces-cerevisiae|S. cerevisiae]]*). The YTK uses [[Golden Gate Cloning]] techniques and the MoClo part syntax as a design framework.
 
 ## Toolkit Taxonomy
 YTK has three "types" of plasmids:
@@ -32,5 +32,4 @@ MoClo syntax divides sequences into different types depending on the purpose of 
 7. Yeast origin. Where the yeast starts copying the plasmid.
 8. Bacterial marker + origin. Where the bacteria start copying the plasmid.
 
-
-[^moclo]: Lee, M.E., DeLoache, W.C., Cervantes, B., and Dueber, J.E. (2015). A Highly Characterized Yeast Toolkit for Modular, Multipart Assembly. ACS Synth. Biol. _4_, 975–986. [10.1021/sb500366v](https://doi.org/10.1021/sb500366v).
+[^1]: Lee, M.E., DeLoache, W.C., Cervantes, B., and Dueber, J.E. (2015). A Highly Characterized Yeast Toolkit for Modular, Multipart Assembly. ACS Synth. Biol. _4_, 975–986. [10.1021/sb500366v](https://doi.org/10.1021/sb500366v).

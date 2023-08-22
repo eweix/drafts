@@ -8,7 +8,7 @@ tags:
 date: 2023-08-09
 ---
 
-Names are important! Especially when it comes to files and organization. Taking a little bit of time to establish a consistent syntax/style for naming makes it much easier to find things when you look for them later[^jennybc].
+Names are important! Especially when it comes to files and organization. Taking a little bit of time to establish a consistent syntax/style for naming makes it much easier to find things when you look for them later.[^1]
 
 - Use `"_"` underscores to delimit *units of meta-data* in a project
 - Use "-" hyphens to delimit *words* (basically replace spaces with these)
@@ -33,4 +33,4 @@ authorlastname_book-title.md
 
 It is not the most consistent, but it works fairly well for me.
 
-[^jennybc]: From [https://speakerdeck.com/jennybc/how-to-name-files](https://speakerdeck.com/jennybc/how-to-name-files). Fantastic list of best practices for naming things.
+[^1]: From [https://speakerdeck.com/jennybc/how-to-name-files](https://speakerdeck.com/jennybc/how-to-name-files). Fantastic list of best practices for naming things.
