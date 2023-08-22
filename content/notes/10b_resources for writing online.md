@@ -1,6 +1,5 @@
 ---
-title:
-  - resources for writing online
+title: Resources for writing online
 aliases:
   - resources for writing online
 tags: null
