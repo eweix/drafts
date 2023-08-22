@@ -1,5 +1,9 @@
 ---
 title: "INDEX"
+aliases:
+- INDEX
+- index
+- Home
 enableToc: false
 ---
 ## About
