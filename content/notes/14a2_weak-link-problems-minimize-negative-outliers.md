@@ -8,7 +8,7 @@ tags:
 date: 2023-08-22
 ---
 
-Weak-link problems describe situations where worth is determined by the worst results. Contrast these with [[notes/14b_strong-link-problems-maximize-positive-outliers|strong-link problems]], which work by maximizing positive outliers rather than curtailing negative outliers.
+Weak-link problems describe situations where worth is determined by the worst results. Contrast these with [[notes/14a3_strong-link-problems-maximize-positive-outliers|strong-link problems]], which work by maximizing positive outliers rather than curtailing negative outliers.
 
 Examples of weak-link problems include:
 - Pharmaceuticals are carefully studied in clinical trials before being approved for use. This way we prevent potentially harmful drugs from going to market, but it extends the time needed to get them set up for public use.
