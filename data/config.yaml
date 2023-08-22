@@ -9,9 +9,9 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 enableGitHubEdit: false
-enableMermaid: 
+enableMermaid: false
 GitHubLink: https://github.com/eweix/drafts/tree/hugo/content
 search:
   enableSemanticSearch: false

@@ -24,10 +24,10 @@ globalGraph:
     enableDrag: true
     enableZoom: true
     depth: -1 # set to -1 to show full graph
-    scale: 1.4
+    scale: 0.8 # zoom out by default
     repelForce: 1
-    centerForce: 1
-    linkDistance: 1
+    centerForce: 1.5 # keep everything centered
+    linkDistance: 0.5 # very short links
     fontSize: 0.5
     opacityScale: 3
 
@@ -35,6 +35,6 @@ globalGraph:
 
 paths:
   - /books: "#E0B152"
-  - /collections: "#4388cc"
-#   - /notes: ""
-#   - /moc: ""
+  - /papers: "#E0B152"
+  - /collections: "#4388CC"
+  - /notes: "#E052B1"
