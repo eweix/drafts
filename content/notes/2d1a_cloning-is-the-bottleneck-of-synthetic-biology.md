@@ -3,6 +3,7 @@ title: "Cloning is the bottleneck of synthetic biology"
 aliases:
   - synthetic biology cloning tools
 tags:
+  - 
 date: 2023-08-15
 ---
 

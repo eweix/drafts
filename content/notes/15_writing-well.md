@@ -1,9 +1,10 @@
 ---
 title: "Writing Well"
 aliases:
-- writing well
-- tools for writing well
+  - writing well
+  - tools for writing well
 tags:
+  - 
 date: 2023-08-22
 ---
 

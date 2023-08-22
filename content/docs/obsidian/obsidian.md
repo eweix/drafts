@@ -1,10 +1,10 @@
 ---
 title: Obsidian
 aliases:
-- Obsidian.md
-- Obsidian
+  - Obsidian.md
+  - Obsidian
 tags:
-- stack
+  - stack
 date: 2023-08-18
 ---
 

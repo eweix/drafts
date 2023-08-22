@@ -1,13 +1,14 @@
 ---
 title: "Empire of Illusion"
-aliases: "Empire of Illusion"
+aliases:
+  - Empire of Illusion
 author:
-- Chris Hedges
+  - Chris Hedges
 isbn: 9781568586137
 cover: "https://books.google.com/books/content?id=xAQBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 date: 2023-08-16
 tags:
-- book
+  - book
 ---
 ## Context
 Hedges wrote *Empire of Illusion* during 2009, during the middle of an economic recession. Near the midway point of Obama's second term. After looking up some reviews, I saw it described as a [jeremiad](https://en.wikipedia.org/wiki/Jeremiad) - a lament about the downfall of society. I'd say that's an accurate description.

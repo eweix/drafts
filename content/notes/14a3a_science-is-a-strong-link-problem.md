@@ -1,8 +1,9 @@
 ---
 title: "Science is a strong-link problem"
 aliases:
-- science is a strong-link problem
+  - science is a strong-link problem
 tags:
+  - 
 date: 2023-08-22
 ---
 

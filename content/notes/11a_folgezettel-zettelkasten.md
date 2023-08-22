@@ -1,11 +1,12 @@
 ---
 title: What is a folgezettel/zettelkasten?
 aliases:
-- what is a folgezettel?
-- who got all this german in my notes?
-- folgezettel
-- zettelkasten
+  - what is a folgezettel?
+  - who got all this german in my notes?
+  - folgezettel
+  - zettelkasten
 tags:
+  - 
 date: 2023-08-20
 ---
 

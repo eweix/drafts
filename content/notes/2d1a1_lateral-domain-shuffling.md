@@ -1,9 +1,10 @@
 ---
 title: "Lateral Domain Shuffling"
 aliases:
-- lateral domain shuffling
-- lateral shuffling
+  - lateral domain shuffling
+  - lateral shuffling
 tags:
+  - 
 date: 2023-08-15
 ---
 Typical protein-based design strategies rely on breaking a protein down into individual domains. Modular domains can then be used to design new constructs and networks. This is called [[notes/2d1a_protein-domain-shuffling|domain shuffling]] (and this is specifically *lateral* domain shuffling, since it goes between proteins).

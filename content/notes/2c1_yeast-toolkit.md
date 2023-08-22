@@ -1,11 +1,12 @@
 ---
 title: "MoClo Yeast Toolkit"
 aliases:
-- MoClo yeast toolkit
-- yeast toolkit
-- MoClo kit
-- yeast golden gate kit
+  - MoClo yeast toolkit
+  - yeast toolkit
+  - MoClo kit
+  - yeast golden gate kit
 tags:
+  - 
 date: 2023-08-10
 ---
 

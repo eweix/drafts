@@ -1,8 +1,9 @@
 ---
 title: "AlphaFold"
-aliases: ["AlphaFold"]
+aliases:
+  - AlphaFold
 tags:
-- stack
+  - stack
 date: 2023-08-15
 ---
 

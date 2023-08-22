@@ -1,7 +1,12 @@
 ---
 title: "Phenomena emerge from the smallest units"
-aliases: ["phenomena emerge from the smallest units", "emergent phenomena", "emergence", "emergent phenomenon"]
+aliases:
+  - phenomena emerge from the smallest units
+  - emergent phenomena
+  - emergence
+  - emergent phenomenon
 tags:
+  - 
 date: 2023-08-15
 ---
 

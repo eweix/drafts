@@ -1,10 +1,11 @@
 ---
 title: "Strong link problems seek to maximize positive outliers"
 aliases:
-- strong-link problems
-- strong-link problems maximize positive outliers
-- strong-link problems work by producing positive outliers
+  - strong-link problems
+  - strong-link problems maximize positive outliers
+  - strong-link problems work by producing positive outliers
 tags:
+  - 
 date: 2023-08-22
 ---
 

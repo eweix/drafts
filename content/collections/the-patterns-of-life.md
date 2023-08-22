@@ -1,8 +1,9 @@
 ---
 title: "The patterns of life"
 aliases:
-- The patterns of life
+  - The patterns of life
 tags:
+  - 
 date: 2023-08-22
 ---
 

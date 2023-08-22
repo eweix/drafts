@@ -3,7 +3,8 @@ title: yeast are model organisms for biology
 aliases:
   - yeast are model organisms for biology
   - yeast biology
-tags: null
+tags:
+  - null
 date: 2023-08-15
 ---
 

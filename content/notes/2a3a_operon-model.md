@@ -1,10 +1,10 @@
 ---
 title: "Operon Model"
 aliases:
-- operon model
-- genetic circuit
-- genetic circuits
-- operon
+  - operon model
+  - genetic circuit
+  - genetic circuits
+  - operon
 date: 2023-08-10
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "Perfect First Drafts"
 aliases:
-- all first drafts are perfect
-- perfect first drafts
-- shitty first drafts
+  - all first drafts are perfect
+  - perfect first drafts
+  - shitty first drafts
 tags:
+  - 
 date: 2023-08-11
 ---
 

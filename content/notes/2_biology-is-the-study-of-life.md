@@ -1,9 +1,10 @@
 ---
 title: Biology is the study of life
 aliases:
-- biology
-- biology is the study of life
+  - biology
+  - biology is the study of life
 tags:
+  - 
 date: 2023-08-15
 ---
 

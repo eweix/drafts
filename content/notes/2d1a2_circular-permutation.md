@@ -1,9 +1,10 @@
 ---
 title: "Circular permutation"
 aliases:
-- circular permutation
-- circular shuffling
+  - circular permutation
+  - circular shuffling
 tags:
+  - 
 date: 2023-08-15
 ---
 The alternative approach to [[notes/2d1a_protein-domain-shuffling|domain shuffling]] is to reuse domains from the same protein, but in a different order. While this is much more difficult to do well than lateral domain shuffling, it can produce very interesting results (like circular fluorescent proteins[^1]).

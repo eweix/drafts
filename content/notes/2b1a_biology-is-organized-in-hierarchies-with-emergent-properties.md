@@ -1,8 +1,9 @@
 ---
 title: "Biology is organized in hierarchies with emergent properties"
 aliases:
-- biology is organized in hierarchies with emergent properties
+  - biology is organized in hierarchies with emergent properties
 tags:
+  - 
 date: 2023-08-22
 ---
 

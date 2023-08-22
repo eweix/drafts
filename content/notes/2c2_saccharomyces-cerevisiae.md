@@ -1,10 +1,11 @@
 ---
 title: "Saccharomyces cerevisiae"
 aliases:
-- baker's yeast
-- S. cerevisiae
-- Saccharomyces cerevisiae
+  - baker's yeast
+  - S. cerevisiae
+  - Saccharomyces cerevisiae
 tags:
+  - 
 date: 2023-08-09
 ---
 

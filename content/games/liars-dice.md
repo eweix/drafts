@@ -1,7 +1,10 @@
 ---
 title: "Liar's Dice"
-aliases: ["liar's dice", "dudo"]
+aliases:
+  - "liar's dice"
+  - dudo
 tags:
+  - 
 date: 2023-08-11
 ---
 

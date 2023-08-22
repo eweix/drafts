@@ -1,7 +1,10 @@
 ---
 title: "Practice slow, then fast"
-aliases: ["Practice slow, then fast", "slow-fast method"]
+aliases:
+  - Practice slow, then fast
+  - slow-fast method
 tags:
+  - 
 date: 2023-08-10
 ---
 

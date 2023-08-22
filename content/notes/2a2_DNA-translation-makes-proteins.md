@@ -2,7 +2,8 @@
 title: "DNA is translated into proteins"
 aliases:
   - DNA translation
-tags: null
+tags:
+  - null
 date: 2023-08-15
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Hugo"
-aliases: ["Hugo"]
+aliases:
+  - Hugo
 tags:
+  - 
 date: 2023-08-10
 ---
 

@@ -3,6 +3,7 @@ title: "DNA transcription"
 aliases:
   - DNA transcription
 tags:
+  - 
 date: 2023-08-15
 ---
 

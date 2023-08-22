@@ -1,9 +1,10 @@
 ---
 title: "The key to credibility is specificity"
 aliases:
-- the key to credibility is specificity
-- write what you know
+  - the key to credibility is specificity
+  - write what you know
 tags:
+  - 
 date: 2023-08-22
 ---
 

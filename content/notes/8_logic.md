@@ -1,8 +1,9 @@
 ---
 title: "Logic"
 aliases:
-- logic
+  - logic
 tags:
+  - 
 date: 2023-08-15
 ---
 

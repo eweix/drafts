@@ -3,6 +3,7 @@ title: "Selective pressure plus random mutation equals evolution"
 aliases:
   - evolution
 tags:
+  - 
 date: 2023-08-15
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Music"
-aliases: ["Music"]
+aliases:
+  - Music
 tags:
+  - 
 date: 2023-08-10
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "INDEX"
 aliases:
-- INDEX
-- index
-- Home
+  - INDEX
+  - index
+  - Home
 enableToc: false
 ---
 ## About

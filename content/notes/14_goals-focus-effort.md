@@ -1,9 +1,10 @@
 ---
 title: "Goals focus effort"
 aliases:
-- goals focus effort
-- problems focus effort
+  - goals focus effort
+  - problems focus effort
 tags:
+  - 
 date: 2023-08-22
 ---
 

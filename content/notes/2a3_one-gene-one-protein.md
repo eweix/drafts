@@ -6,6 +6,7 @@ aliases:
   - one gene, one protein
   - genetics
 tags:
+  - 
 date: 2023-08-15
 ---
 

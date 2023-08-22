@@ -1,9 +1,10 @@
 ---
 title: Start here
 aliases:
-- Start here
-- start here
+  - Start here
+  - start here
 tags:
+  - 
 date: 2023-08-16
 ---
 

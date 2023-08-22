@@ -1,11 +1,11 @@
 ---
 title: Sort pages by date in hugo
 aliases:
-- sort pages by date in hugo
-- sort pages by date
-- pagesort date
+  - sort pages by date in hugo
+  - sort pages by date
+  - pagesort date
 tags:
-- snippet
+  - snippet
 date: 2023-08-16
 ---
 

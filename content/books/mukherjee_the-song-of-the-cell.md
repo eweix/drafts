@@ -1,13 +1,11 @@
 ---
 title: "The Song of the Cell"
-aliases: "The Song of the Cell"
-date: "2023-01-03"
+aliases:
+  - The Song of the Cell
 author: "Siddharta Mukherjee"
 ISBN10: 1473570794
 ISBN13: 9781473570795
 cover: https://books.google.com/books/content?id=E-AnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-publisher: "Random House"
-publish-date: 2022-11-03
 canon: true
 date: 2023-01-03
 ---

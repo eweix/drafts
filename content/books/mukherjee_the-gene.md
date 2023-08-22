@@ -1,14 +1,10 @@
 ---
 title: "The Gene"
-date: "2023-04-26"
+date: 2023-04-26
 author: "Siddharta Mukherjee"
 ISBN10: 1476733538
 ISBN13: 9781476733531
 cover: https://books.google.com/books/content?id=fOvaCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Simon and Schuster"
-publish-date: 2016-05-17
-canon: false
-date: 2023-04-26
 ---
 At first glance, *The Gene* book is hefty—and it's certainly not a novel.
 It took me a couple months to finish this one.

@@ -4,6 +4,7 @@ aliases:
   - chemical reaction
   - chemical reactions are the core of chemistry
 tags:
+  - 
 date: 2023-08-15
 ---
 

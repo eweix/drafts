@@ -1,9 +1,10 @@
 ---
 title: Cells must organize themselves in space and time
 aliases:
-- Cells must organize themselves in space and time
-- Cells depend on spatiotemporal organization
-tags: null
+  - Cells must organize themselves in space and time
+  - Cells depend on spatiotemporal organization
+tags:
+  - null
 date: 2023-08-20
 ---
 

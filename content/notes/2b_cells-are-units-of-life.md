@@ -3,7 +3,8 @@ title: "Cells are the atomic units of life"
 aliases:
   - cellular biology
   - cells are the atomic units of life
-tags: null
+tags:
+  - null
 date: 2023-08-15
 ---
 *Omnis cellula e cellula*. All cells come from cells. Such states cell theory, one of the key ideas in biology.
