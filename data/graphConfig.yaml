@@ -27,7 +27,7 @@ globalGraph:
     scale: 2.0 # large graph by default
     repelForce: 1
     centerForce: 1.5 # keep everything centered
-    linkDistance: 0.5 # very short links
+    linkDistance: 0.8 # use shorter links
     fontSize: 0.5
     opacityScale: 3
 
