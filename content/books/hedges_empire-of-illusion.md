@@ -19,7 +19,7 @@ In *Empire of Illusion*, Chris Hedges describes the United States as a declining
 - I do disagree with Hedges on academics, though when he writes "academic" he seems to mean "economist" half of the time.
 
 ### Artifice
-> "The most essential skill in political theater and a consumer culture is artifice. Political leaders, who use the tools of mass propaganda to create a sense of faux intimacy with citizens, no longer need to be competent, sincere, or honest. They need only appear to have these qualities. Most importantly, they need a story, a personal narrative. The reality of the narrative is irrelevant. It can be completely at odds with the facts. The consistency and emotional appeal of the story are paramount. Those who are best at deception succeed. Those who who have not mastered the art of entertainment, who fail to create a narrative or do not have one fashioned for them by their handlers, are ignored. They become 'unreal.'"
+> "The most essential skill in political theater and a consumer culture is artifice. Political leaders, ==who use the tools of mass propaganda to create a sense of faux intimacy with citizens==, no longer need to be competent, sincere, or honest. They need only appear to have these qualities. Most importantly, ==they need a story, a personal narrative.== The reality of the narrative is irrelevant. It can be completely at odds with the facts. The consistency and emotional appeal of the story are paramount. Those who are best at deception succeed. Those who who have not mastered the art of entertainment, who fail to create a narrative or do not have one fashioned for them by their handlers, are ignored. They become 'unreal.'"
 > 
 > —<cite>Chris Hedges</cite>
 
@@ -31,8 +31,7 @@ Consider accessible and inaccessible language. Hedges refers to most technical t
 All that aside, jargon does exclude people (intentionally or not). Hedges likens these difficultues in communication to sectorial languages, as if we have been cursed with fragmented communication after building a tower of babel.
 
 ### Corporate education
-Hedges argues that our colleges and universities are no longer truly places of higher education. Instead, they have pivoted to the goal of vocational training and certification. This gets back to the typical thing I hear about liberal arts educations, and how we no longer value training people to think. I take this with a grain of salt. Hedges bases his argument mainly on the rise of for-profit universities (which arguably shouldn't be a thing) and corporate donations that sustain universities.  percentage has hovered at above 65% since the early 2000s.[^1]
+Hedges argues that our colleges and universities are no longer truly places of higher education. Instead, they have pivoted to the goal of vocational training and certification. We focus on teaching memorization and regurgitation, not synthesis or true composition. This gets back to the typical thing I hear about liberal arts educations, and how we no longer value training people to think.[^1] I take this with a grain of salt.[^2]
 
-That being said, I love the liberal arts. I had a lot of fun with my literature and government classes, and I've come to appreciate history. Without this sort of education, I never would have discovered my love of writing or music.
-
-[^1]: https://www.bestcolleges.com/research/college-enrollment-statistics/
+[^1]: Hedges bases his argument mainly on the rise of for-profit universities (which arguably shouldn't be a thing) and corporate donations that sustain universities. [The percentage has hovered at above 65% since the early 2000s](https://www.bestcolleges.com/research/college-enrollment-statistics/),  though it dropped a bit during the pandemic.
+[^2]: That being said, I love the liberal arts. I had a lot of fun with my literature and government classes, and I've come to appreciate history. Without this sort of education, I never would have discovered my love of writing or music.
