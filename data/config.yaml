@@ -1,6 +1,7 @@
 name: Elliott Weix
 enableToc: false
 openToc: false
+enableGraphs: false
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
