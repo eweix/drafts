@@ -7,4 +7,4 @@ tags:
 date: 2023-08-20
 ---
 
-There's a lot of information out there. How do you organize it all? I certainly don't do it well.
+There's a lot of information out there. To make sense of it, it's best to use some form of organization. 
