@@ -11,4 +11,4 @@ canon: true
 date: 2023-08-04
 ---
 
-If [[books/butler_parable-of-the-sower|Parable of the Sower]] was haunting, then Parable of the Talents was terrifying.
+If [[books/butler_parable-of-the-sower|Parable of the Sower]] was haunting, then Parable of the Talents was terrifying. It's a book about Lauren's work with Earthseed in the midst of the regression of "Christian America." It hits too close to home right now.
