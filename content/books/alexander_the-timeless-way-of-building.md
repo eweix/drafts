@@ -9,7 +9,7 @@ date: 2023-08-28
 tags: book
 ---
 # Summary
-In *The Timeless Way of Building*, Christopher Alexander describes the (somewhat mystical) practices of making good buildings—buildings that promote use and life. This sort of character he terms "the timeless quality" or "the quality without a name." Though it defies description, the quality without a name is what gives the places we love that sort of special feeling and atmosphere.
+In *The Timeless Way of Building*, Christopher Alexander describes the (somewhat mystical) practices of making good buildings—buildings that promote use and life. This sort of character he terms "the timeless quality" or "the quality without a name." Though it defies description, the quality without a name is what gives the places (and moments) we love that sort of special feeling and atmosphere.
 
 To build good buildings, Alexander asserts, we must think in patterns. All places are really defined by the things that happen in them day-to-day. These events create the character of a place, much as a wagon wheel makes a rut in a path. So we must consider these patterns, think of the patterns we want, and build things that invite those patterns.
 

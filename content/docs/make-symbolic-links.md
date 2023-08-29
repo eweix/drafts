@@ -1,9 +1,8 @@
 ---
 title: "Making symbolic links"
 aliases:
-- symbolic links
-tags:
-- snippet
+  - symbolic links
+tags: snippet
 date: 2023-08-28
 ---
 
