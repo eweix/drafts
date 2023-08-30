@@ -25,7 +25,14 @@ The act of design, too, must be done in patterns. The relationships between thin
 - The "atomic" units of a pattern are those that repeat. If churches are different every time, the church itself is not atomic. What is?
 	- The events that happen inside. Community gathering, worship, and other events repeat day to day and define the pattern of the church.
 - The structure of a region is defined by patterns of relationships, which must be internally consistent.
-- Patterns are sets of morphological relationships in space: $$X \to r(A,B, \dots)$$ where in context $$X$$, parts $$A,B, \dots$$
-are related by relationship $$R$$
+- Patterns are sets of morphological relationships in space: $X \to r(A,B, \dots)$ where in context $X$, parts $A,B, \dots$ are related by relationship $R$
 
-- 
+### Building should be natural
+Too often when we build things, we seek to impose some imagined order from the top downwards. We conceive a blueprint on paper, following some rules we have learned, and try to optimize the building. But buildings do not need to be optimized—it removes the nameless quality from them.
+
+Do not make buildings modular—it destroys the soul of the building and makes it feel dead.
+
+### All good buildings have the timeless quality
+All good buildings (and many other good works of design) share the same timeless (and nameless) quality. Think of the moments in your life where everything just felt "right." That is the timeless quality. To achieve this quality, we must understand the event patterns that will shape the character of the building, and then we must build with spacial patterns that invite these events.
+
+### The world is made up of patterns
