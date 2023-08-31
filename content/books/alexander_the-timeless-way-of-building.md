@@ -16,23 +16,24 @@ To build good buildings, Alexander asserts, we must think in patterns. All place
 The act of design, too, must be done in patterns. The relationships between things—the *narrow hallway* that has *rooms on both sides* and connects to a *common place* with a *cooking place* is a basic set of places and relationships that make up the pattern for a floor of a residence hall. Instead of creating rigid modularity, these patterns give us a set of rules we can use to generate or grow a building—a starting seed to plant. With these patterns in mind, multiple people can work together to build this sort of building with less friction and more consistency. The collection of these patterns is a pattern language, and we can learn them just like languages.
 
 # Notes
-- The timeless way of building is natural, but to achieve it we must shed our preconcieved systems and methods. It defies systems and methods, which by their nature are modular—and therefore lack the quality without a name.
-- The nameless quality is the unifying characteristic of good buildings (there is such a thing as objectively good and objectively bad buildings). The nameless quality is: alive, whole, comfortable, free, exact, egoless, and eternal.
-- The timeless quality is present in the special moments in our lives, where we feel most whole and alive. Think of a moment where everything just felt "right," all at home in its place. That is the timeless quality.
-- The character of something—a place, a tool, a person—is given by the events that occur with(in) it most often. The little day-to-day things make us who we are.
-- Cultures are made of patterns of memetic events. This is the structure of the world.
-- A pattern is: space + events. These two cannot be separated. Space and events help define one another.
-- The "atomic" units of a pattern are those that repeat. If churches are different every time, the church itself is not atomic. What is?
-	- The events that happen inside. Community gathering, worship, and other events repeat day to day and define the pattern of the church.
-- The structure of a region is defined by patterns of relationships, which must be internally consistent.
-- Patterns are sets of morphological relationships in space: $X \to r(A,B, \dots)$ where in context $X$, parts $A,B, \dots$ are related by relationship $R$
 
-### Building should be natural
+### [[notes/16_building should be natural|Building should be natural]]
 Too often when we build things, we seek to impose some imagined order from the top downwards. We conceive a blueprint on paper, following some rules we have learned, and try to optimize the building. But buildings do not need to be optimized—it removes the nameless quality from them.
 
 Do not make buildings modular—it destroys the soul of the building and makes it feel dead.
 
-### All good buildings have the timeless quality
+### [[notes/16a_the timeless quality distinguishes good buildings|All good buildings have the timeless quality]]
 All good buildings (and many other good works of design) share the same timeless (and nameless) quality. Think of the moments in your life where everything just felt "right." That is the timeless quality. To achieve this quality, we must understand the event patterns that will shape the character of the building, and then we must build with spacial patterns that invite these events.
 
-### The world is made up of patterns
+### [[notes/16a1a_patterns are made of spaces and events|Spaces + Events = Patterns]]
+Patterns are made of spaces and events. These cannot be separated from one another. Space gives rise to events, and events give context to space. These are the basic elements that repeat in a pattern.
+
+Patterns can also be thought of like morpholoical laws: $X \to r(A,B, \dots)$ where in context $X$, parts $A,B, \dots$ are related by relationship $R$.
+
+### [[notes/16a1_the world is made of patterns|The world is made of patterns]]
+The character of something—a place, a tool, a person—is given by the events that occur within and around it most often. The little day-to-day things make us who we are. The patterns of the world propogate themselves, creating culture and other cohesive images.
+
+### [[notes/16a1b_patterns-are-shareable-languages|Patterns are shareable languages]]
+If we think of a person's collective knowledge of patterns like a language, then the patterns are words, patterns that connect patterns are grammar/syntax rules, and buildings and places are sentences.
+
+Every person has a pattern language that describes their experiences with building. This language is vital to building. By sharing these languages with other people or building a collective pattern language, we can more easily collaborate on building and design. This is sort of like equalizing expectations before working on a project.
