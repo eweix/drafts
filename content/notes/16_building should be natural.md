@@ -1,8 +1,8 @@
 ---
 title: "Building should be natural"
 aliases:
-- building should be natural
-tags:
+  - building should be natural
+tags: 
 date: 2023-08-31
 ---
 

@@ -15,4 +15,6 @@ Examples of strong-link problems include:
 - Science. The best papers can change entire fields or revolutionize an industry, while the less exciting papers don't usually cause us problems. [[notes/14a3a_science-is-a-strong-link-problem|Science benefits from more scientists and more research]].
 - Books. If someone writes a bad book, it just doesn't get bought. But again, the best books bring a lot of joy to people.
 
-In strong link problems, generally the [[notes/14_goals-focus-effort|goal]] should be expanding the number of results to encourage more positive outliers, and providing people with tools to produce those positive outliers.
+In strong link problems, generally the [[notes/14_goals-focus-effort|goal]] should be expanding the number of results to encourage more positive outliers, and providing people with tools to produce those positive outliers.[^1]
+
+[^1]: [Science is a strong-link problem](https://www.experimental-history.com/p/science-is-a-strong-link-problem) by Adam Mastroianni
