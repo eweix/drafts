@@ -1,6 +1,6 @@
 ---
 title: "Recreational math"
-slug: recreational-math
+slug: math-for-fun
 tags:
 date: 2024-01-12
 draft: true
