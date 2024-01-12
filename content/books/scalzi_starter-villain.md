@@ -9,7 +9,3 @@ tags:
 - book
 draft: true
 ---
-# Summary
-
-
-# Notes

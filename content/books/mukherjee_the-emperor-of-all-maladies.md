@@ -17,6 +17,3 @@ I've been reading a lot of books about medicine and history lately.
 While I'm not really interested in going into medicine as a profession, I love learning about the science behind treatments and the events that led up to important discoveries.
 I read this book on the recommendation of my parents and my aunt (and also because I had read Mukherjee's later books).
 I'd recommend this book for anyone who wants to understand cancer—be it to comprehend their own struggles, those of friends and family, or for more academic reasons.
-
-## Notes
-- [[notes/2b1_living-phenomena-can-be-understood-through-cells|all living phenomena can be understood through cells]]

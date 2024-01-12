@@ -1,7 +1,5 @@
 ---
-title: "Strange Case of Dr.
-Jekyll and Mr.
-Hyde"
+title: "Strange Case of Dr. Jekyll and Mr. Hyde"
 layout: book-review
 author: "Robert Louis Stevenson"
 ISBN10: 
