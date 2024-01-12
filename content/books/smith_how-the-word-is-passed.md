@@ -2,12 +2,10 @@
 title: "How the Word Is Passed"
 layout: book-review
 author: "Clint Smith"
-ISBN10: 0316492914
 ISBN13: 9780316492911
 cover: http://books.google.com/books/content?id=nhwBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Little, Brown"
-publish-date: 2021-06-01
 canon: true
+tags: book
 date: 2023-06-29
 ---
 *How the Word Is Passed* is a great introduction to the history of systemic racism.

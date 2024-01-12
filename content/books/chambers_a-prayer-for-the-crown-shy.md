@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=ipc9EAAAQBAJ&printsec=frontcove
 publisher: "Tordotcom"
 publish-date: 2022-07-12
 canon: false
+tags: book
 date: 2023-07-09
 ---
 *A Prayer for the Crown-Shy* is a worthy sequal to [[books/chambers_a-psalm-for-the-wild-built|A Psalm for the Wild Built]].

@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=6LV6oAEACAAJ&printsec=frontcove
 publisher: "Viking"
 publish-date: 2014-08-14
 canon: true
+tags: book
 date: 2023-06-08
 ---
 This book.

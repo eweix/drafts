@@ -2,12 +2,10 @@
 title: "Song of Solomon"
 layout: book-review
 author: "Toni Morrison"
-ISBN10: 0307388123
 ISBN13: 9780307388124
 cover: https://books.google.com/books/content?id=RxkWfF2s7EUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Vintage"
-publish-date: 2007-07-24
 canon: true
+tags: book
 date: 2023-05-20
 ---
 Toni Morrison is a fantastic author, and Song of Solomon is not an exception to that rule.

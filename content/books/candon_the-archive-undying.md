@@ -8,6 +8,7 @@ cover: http://books.google.com/books/content?id=uE-BEAAAQBAJ&printsec=frontcover
 publisher: "Tordotcom"
 publish-date: 2023-06-27
 canon: false
+tags: book
 date: 2023-08-05
 ---
 

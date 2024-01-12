@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=vRehEAAAQBAJ&printsec=frontcove
 publisher: "Little, Brown"
 publish-date: 2023-01-17
 canon: false
+tags: book
 date: 2023-07-01
 ---
 I picked up this book because I wanted to learn about jellyfish and some of the biochemistry behind ageing.

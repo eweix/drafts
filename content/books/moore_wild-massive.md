@@ -2,12 +2,10 @@
 title: "Wild Massive"
 layout: book-review
 author: "Scotto Moore"
-ISBN10: 1250767733
 ISBN13: 9781250767738
 cover: https://books.google.com/books/content?id=IG9pEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Tordotcom"
-publish-date: 2023-02-07
 canon: false
+tags: book
 date: 2023-06-23
 ---
 *Wild Massive* by Scotto Moore is like *The Hitchhiker's Guide to the Galaxy* but the universe is inside a building and features amusement parks.

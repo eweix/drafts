@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=2ue1EAAAQBAJ&printsec=frontcove
 publisher: "Grand Central Publishing"
 publish-date: 2023-03-28
 canon: true
+tags: book
 date: 2023-07-29
 ---
 

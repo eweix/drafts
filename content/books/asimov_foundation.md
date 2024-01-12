@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=IwywDY4P6gsC&printsec=frontcove
 publisher: "Spectra"
 publish-date: 2004-06-01
 canon: false
+tags: book
 date: 2023-06-27
 ---
 Isaac Asimov's *Foundation* is a sci-fi novel that follows statistician Hari Seldon and his disciples as they work to mitigate a galactic disaster.

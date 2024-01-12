@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=gWgPAQAAMAAJ&printsec=frontcove
 publisher: "Reading, Mass. ; Don Mills, Ont. : Addison-Wesley Publishing Company"
 publish-date: 1975
 canon: false
+tags: book
 date: 2023-06-27
 ---
 I would have gotten more out of this book if I were a software engineer or full-blown computer programmer. Much of the contents went over my head, since I'm not a member of that target audience. *The Mythical Man-Month* is dense and technical, so be prepared if you choose to read it.

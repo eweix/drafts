@@ -2,12 +2,10 @@
 title: "The Butchering Art"
 layout: book-review
 author: "Lindsey Fitzharris"
-ISBN10: 0374117292
 ISBN13: 9780374117290
 cover: https://books.google.com/books/content?id=j9w1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Scientific American / Farrar, Straus and Giroux"
-publish-date: 2017-10-17
 canon: false
+tags: book
 date: 2023-05-27
 ---
 *The Butchering Art* is another fantastic work of scientific and historical journalism, chronicling the transformation of Victorian medicine through the life of Joseph Lister—the surgeon who pioneered sterilization via carbolic acid.

@@ -2,12 +2,10 @@
 title: "Hood Feminism"
 layout: book-review
 author: "Mikki Kendall"
-ISBN10: 0525560556
 ISBN13: 9780525560555
 cover: https://books.google.com/books/content?id=JoecDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Penguin"
-publish-date: 2020-02-25
 canon: false
+tags: book
 date: 2023-05-20
 ---
 *Hood Feminism* is a collection of essays about feminism, racism, poverty, and change.

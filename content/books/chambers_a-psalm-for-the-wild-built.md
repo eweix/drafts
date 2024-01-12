@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=XgT6DwAAQBAJ&printsec=frontcove
 publisher: "Tordotcom"
 publish-date: 2021-07-13
 canon: true
+tags: book
 date: 2023-06-20
 ---
 I think I have a new favorite book.

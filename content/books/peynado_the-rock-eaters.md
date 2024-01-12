@@ -2,12 +2,10 @@
 title: "The Rock Eaters"
 layout: book-review
 author: "Brenda Peynado"
-ISBN10: 0143135627
 ISBN13: 9780143135623
 cover: https://books.google.com/books/content?id=w_ooEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Penguin"
-publish-date: 2021-05-11
 canon: false
+tags: book
 date: 2023-06-16
 ---
 *The Rock Eaters* is an anthology by Brenda Peynado.

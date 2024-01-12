@@ -2,12 +2,10 @@
 title: "The Joy Luck Club"
 layout: book-review
 author: "Amy Tan"
-ISBN10: 1101502738
 ISBN13: 9781101502730
 cover: https://books.google.com/books/content?id=Dzk9c9nWYeYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Penguin"
-publish-date: 2006-09-21
 canon: true
+tags: book
 date: 2023-07-15
 ---
 *The Joy Luck Club* was a fantastic read.

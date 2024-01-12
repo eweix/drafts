@@ -8,5 +8,6 @@ cover: https://books.google.com/books/content?id=3OpEDQAAQBAJ&printsec=frontcove
 publisher: "Abrams"
 publish-date: 2017-03-07
 canon: true
+tags: book
 date: 2023-07-04
 ---

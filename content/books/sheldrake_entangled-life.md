@@ -2,12 +2,10 @@
 title: "Entangled Life"
 layout: book-review
 author: "Merlin Sheldrake"
-ISBN10: 052551032X
 ISBN13: 9780525510321
 cover: https://books.google.com/books/content?id=EJ4jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Random House Trade Paperbacks"
-publish-date: 2021-04-13
 canon: false
+tags: book
 date: 2023-05-27
 ---
 Mushrooms have been making the rounds on the internet and in pop culture.

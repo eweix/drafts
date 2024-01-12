@@ -1,6 +1,6 @@
 ---
 title: "<% tp.file.title %>"
-aliases:
+slug:
 tags:
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---

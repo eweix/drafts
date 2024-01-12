@@ -2,12 +2,10 @@
 title: "Strange Case of Dr. Jekyll and Mr. Hyde"
 layout: book-review
 author: "Robert Louis Stevenson"
-ISBN10: 
 ISBN13: 9781853260612
 cover: https://books.google.com/books/content?id=tvYVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: ""
-publish-date: 1903
 canon: false
+tags: book
 date: 2023-06-02
 ---
 One of my friends reminded me that this book existed last week.

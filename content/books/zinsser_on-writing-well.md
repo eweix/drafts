@@ -5,9 +5,8 @@ author: "William Zinsser"
 ISBN10: 0062250507
 ISBN13: 9780062250506
 cover: https://books.google.com/books/content?id=mp16BDRDaYQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Harper Collins"
-publish-date: 2012-09-11
 canon: true
+tags: book
 date: 2023-05-29
 ---
 In his book *On Writing Well*, William Zinsser outlines a set of best practices and techniques for writers of all stripes and skills.

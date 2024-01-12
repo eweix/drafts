@@ -2,12 +2,10 @@
 title: "Animal Farm"
 layout: book-review
 author: "George Orwell"
-ISBN10: 0241391857
 ISBN13: 9780241391853
 cover: https://books.google.com/books/content?id=lHo6zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-publisher: "Penguin Classics"
-publish-date: 2020-08-06
 canon: false
+tags: book
 date: 2023-06-06
 ---
 *Animal Farm*, by George Orwell, is a satirical novel about fascism and communism.

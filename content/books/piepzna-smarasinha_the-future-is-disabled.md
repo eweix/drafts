@@ -2,12 +2,10 @@
 title: "The Future Is Disabled"
 layout: book-review
 author: "Leah Lakshmi Piepzna-Samarasinha"
-ISBN10: 1551528924
 ISBN13: 9781551528922
 cover: https://books.google.com/books/content?id=QoCKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "arsenal pulp press"
-publish-date: 2022-10-04
 canon: true
+tags: book
 date: 2023-07-02
 ---
 

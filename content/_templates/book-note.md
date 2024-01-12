@@ -5,10 +5,5 @@ author: [{{author}}]
 isbn: {{isbn13}}
 cover: "{{coverUrl}}"
 date: {{DATE:YYYY-MM-DD }}
-tags:
-- book
+tags: book
 ---
-# Summary
-
-
-# Notes

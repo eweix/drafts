@@ -2,12 +2,10 @@
 title: "The Immortal Life of Henrietta Lacks"
 layout: book-review
 author: "Rebecca Skloot"
-ISBN10: 0307589382
 ISBN13: 9780307589385
 cover: https://books.google.com/books/content?id=GFevO-QxQDgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Crown"
-publish-date: 2010-02-02
 canon: true
+tags: book
 date: 2023-07-07
 ---
 

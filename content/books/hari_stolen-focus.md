@@ -2,12 +2,10 @@
 title: "Stolen Focus"
 layout: book-review
 author: "Johann Hari"
-ISBN10: 1526620243
 ISBN13: 9781526620248
 cover: https://books.google.com/books/content?id=N6UxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-publisher: "Bloomsbury Publishing"
-publish-date: 2022-01-06
 canon: false
+tags: book
 date: 2023-06-20
 ---
 

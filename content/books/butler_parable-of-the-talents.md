@@ -8,6 +8,7 @@ cover: https://books.google.com/books/content?id=gOy07Z1AAR8C&printsec=frontcove
 publisher: "Seven Stories Press"
 publish-date: 1998
 canon: true
+tags: book
 date: 2023-08-04
 ---
 

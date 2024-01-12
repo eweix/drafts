@@ -2,12 +2,10 @@
 title: "Tidesong"
 layout: book-review
 author: "Wendy Xu"
-ISBN10: 0062955810
 ISBN13: 9780062955814
 cover: https://books.google.com/books/content?id=bykeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "HarperCollins"
-publish-date: 2021-11-16
 canon: false
+tags: book
 date: 2023-06-11
 ---
 Wendy Xu's *Tidesong* is a graphic novel about a girl who goes to study magic with her great-aunt.

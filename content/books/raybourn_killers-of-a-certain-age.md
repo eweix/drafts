@@ -2,12 +2,10 @@
 title: "Killers of a Certain Age"
 layout: book-review
 author: "Deanna Raybourn"
-ISBN10: 0593200691
 ISBN13: 9780593200698
 cover: https://books.google.com/books/content?id=0ThTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Penguin"
-publish-date: 2022-09-06
 canon: false
+tags: book
 date: 2023-06-13
 ---
 If I had to describe this book in a single sentence it would be "It's like John Wick but with middle-aged women." The title, *Killers of a Certain Age*, makes it sound like a mystery or suspense novel, but the book feels like that weird "revenge roadtrip" that more than a few movies seem to love.

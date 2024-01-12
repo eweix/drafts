@@ -1,12 +1,10 @@
 ---
 title: "The Emperor of All Maladies"
 author: "Siddhartha Mukherjee"
-ISBN10: 1439170916
 ISBN13: 9781439170915
 cover: https://books.google.com/books/content?id=hgx0sJvphNkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: "Simon and Schuster"
-publish-date: 2011-08-09
 canon: false
+tags: book
 date: 2023-06-04
 ---
 

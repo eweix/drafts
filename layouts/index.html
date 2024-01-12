@@ -5,7 +5,7 @@
 <body>
 {{partial "search.html" .}}
 <div class="singlePage">
-    <!-- Begin actual content -->
+    <!-- include content -->
     {{partial "header.html" .}}
     <article>
         {{partial "toc.html" .}}
@@ -13,6 +13,10 @@
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}
+        <!-- list all notes -->
+        {{ range where .Pages "Section" $section }}
+          <ul><a href="{{ .Permalink }}">{{ .Title }}</a> &Backslash; <i>{{ .Lastmod.Format "2006-01-02" }}</i></ul>
+        {{ end }}
     </article>
     {{partial "footerIndex.html" .}}
 </div>

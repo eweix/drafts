@@ -2,12 +2,10 @@
 title: Moby Dick
 layout: book-review
 author: Herman Melville
-ISBN10: 9354866603
 ISBN13: 9789354866609
 cover: https://books.google.com/books/content?id=YjNAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publisher: Diamond Pocket Books Pvt Ltd
-publish-date: 2021-09-01
 canon: false
+tags: book
 date: 2023-07-18
 ---
 Full disclosure: everything I knew about *Moby Dick* before reading this novel came from [*Bone* by Jeff Smith](https://www.boneville.com/).
